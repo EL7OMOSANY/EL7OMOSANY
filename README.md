@@ -27,8 +27,8 @@
 - 🧩 Love solving UI/UX challenges and improving app performance
 - 💬 Ask me about **Flutter, Firebase, GraphQL, State Management**
 - 📫 Reach me on:
-  - [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-  - [Gmail](mailto:YOUR-MAIL@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/mohmmed-ayman-b9080b34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - [Gmail](mmohmmeayman710@gmail.com)
 
 ---
 
@@ -54,8 +54,8 @@
 | 🚀 Project | Description |
 |-------------|-------------|
 | 🛍️ [Shopi App](https://github.com/EL7OMOSANY/shopi_app) | Full e-commerce app using Flutter, Firebase & GraphQL |
-| 💓 [Heart Care Form](https://github.com/EL7OMOSANY/heart_form) | Health form app with dynamic themes & clean UI |
-| 📱 [BMI Calculator](https://github.com/EL7OMOSANY/bmi_calculator) | Minimal BMI app with modern design |
+| 💓 [Medibuddy](https://github.com/lifebuddies/medibuddy) | health care app powerd by AI |
+| 📱 [Islam App](https://github.com/EL7OMOSANY/Islam-App) | full islam app with active UI |
 
 ---
 
