@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3eSGI/giphy.gif" width="30"/>
-  Flutter Developer | Pixel-Perfect & Smooth Apps
+  Flutter Developer | Build Smart & Smooth Apps
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3eSGI/giphy.gif" width="30"/>
 </h1>
 
@@ -25,10 +25,12 @@
 ---
 
 ### About Me
-- Working on **Medibuddy** – AI-Powered Healthcare Assistant  
-- Mastering **Clean Architecture**, **Riverpod**, **GraphQL**, **CI/CD**  
-- Ask me about **Flutter**, **State Management**, **Firebase**, **UI/UX**  
-- Fun fact: *My code runs smoother than my sleep schedule*  
+- Results-driven and detail-oriented Mobile App Developer specializing in Flutter. Skilled in 
+building high-performance, scalable, and responsive applications using clean architecture 
+and modern state management (Provider, Bloc/Cubit). Proficient in Firebase, API 
+integration, Git workflows, UI/UX optimization, app localization, and local storage using 
+Hive and Shared Preferences. Experienced with GraphQL and eager to deliver user-centric 
+features through collaboration and continuous improvement. 
 
 ---
 
