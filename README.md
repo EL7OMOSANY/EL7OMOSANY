@@ -54,22 +54,14 @@
 
 ---
 
-### Live Demos
-<div align="center">
+### Featured Projects
 
-#### **Medibuddy** – AI Healthcare Assistant
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ0b3J5d2F5c2h1dHRlcndvcmxkZ2lmeXN1Y2Nlc3NmdW5ueW1lbWU&ct=g" width="300" style="border-radius:12px; box-shadow: 0 4px 12px rgba(139,92,246,0.3); transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-<br><sub><a href="https://github.com/lifebuddies/medibuddy">View Code</a></sub>
-
-#### **Islam App** – Interactive Islamic App
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Vic2l0ZWxhdW5jaHN0YXJ0dXBzY3JlZW5zaG90c2hvd2Nhc2VnaWZ5bWVtZQ&ct=g" width="300" style="border-radius:12px; box-shadow: 0 4px 12px rgba(139,92,246,0.3); margin-top:15px; transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-<br><sub><a href="https://github.com/EL7OMOSANY/Islam-App">View Code</a></sub>
-
-#### **Shopi** – Full E-commerce App
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVtZW9yYW5kb2JqZWN0c2hvd2Nhc2VnaWZ5bWVtZW9yYW5kb2JqZWN0&ct=g" width="300" style="border-radius:12px; box-shadow: 0 4px 12px rgba(139,92,246,0.3); margin-top:15px; transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-<br><sub><a href="https://github.com/EL7OMOSANY/shopi_app">View Code</a></sub>
-
-</div>
+| Project | Description | Link |
+|---------|-------------|------|
+| **Medibuddy** | AI-powered healthcare assistant with real-time diagnostics & doctor chat | [View](https://github.com/lifebuddies/medibuddy) |
+| **Islam App** | Full Islamic app featuring Qibla, Adhan, Quran with audio & Tafsir | [View](https://github.com/EL7OMOSANY/Islam-App) |
+| **Shopi** | Complete e-commerce platform with GraphQL backend & Firebase Auth | [View](https://github.com/EL7OMOSANY/shopi_app) |
+| **Jassan App** | **Asset Management System** for tracking equipment, maintenance schedules, and inventory.<br>Supports barcode scanning, real-time updates, and admin dashboard. | [View](#) <!-- ضيف الرابط لما تعمله --> |
 
 ---
 
@@ -83,7 +75,7 @@
 ### Let's Connect
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/mohamed-ayman-el7omosany](https://www.linkedin.com/in/mohmmed-ayman-b9080b34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+<a href="https://www.linkedin.com/in/mohmmed-ayman-b9080b34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
