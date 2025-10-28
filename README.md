@@ -19,6 +19,7 @@
 ![Dart](https://img.shields.io/badge/Dart-8B5CF6?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-8B5CF6?style=for-the-badge&logo=firebase&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-8B5CF6?style=for-the-badge&logo=graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-8B5CF6?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -45,17 +46,17 @@ Experienced with **GraphQL** and passionate about crafting **user-centric experi
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 💓 **[Medibuddy](https://github.com/lifebuddies/medibuddy)** | AI-powered healthcare assistant with real-time diagnostics & doctor chat |
-| 🕌 **[Islam App](https://github.com/EL7OMOSANY/Islam-App)** | Full Islamic app featuring Qibla, Adhan, Quran with audio & Tafsir |
-| 🛍️ **[Shopi App](https://github.com/EL7OMOSANY/shopi_app)** | Complete e-commerce platform with GraphQL backend & Firebase Auth |
-| 🧾 **[Jassan App](#)** | Asset Management System for tracking equipment, maintenance & inventory (add link later) |
+| 🧾 **Jassan App – Asset Management System** | Enterprise-level app for managing assets efficiently. Features include scalable data handling, clean architecture, and GraphQL integration. | 🔗 [View](#) |
+| 🛍️ **[Shopi App](https://github.com/EL7OMOSANY/shopi_app)** | Full-featured e-commerce platform with two roles: Admin dashboard for managing products & users, and a user app for browsing and purchasing. Built with Flutter, Firebase & GraphQL. | 🔗 [View Repo](https://github.com/EL7OMOSANY/shopi_app) |
+| 💓 **[MediBuddy](https://github.com/lifebuddies/medibuddy)** | AI-based health monitoring platform offering smart insights and health tracking. First prototype completed. | 🔗 [View Repo](https://github.com/lifebuddies/medibuddy) |
+| 🕌 **[Islam App](https://github.com/EL7OMOSANY/Islam-App)** | Full Islamic app featuring Adhan, Quran, Azkar, and Qibla detection with smooth UI & dark mode. | 🔗 [View Repo](https://github.com/EL7OMOSANY/Islam-App) |
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=EL7OMOSANY&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL7OMOSANY&layout=compact&theme=tokyonight&border_radius=10&langs_count=8&hide=c,html,css&langs_count=6" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL7OMOSANY&layout=compact&theme=tokyonight&border_radius=10&langs_count=8&hide=c,html,css,java,python&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
@@ -79,10 +80,12 @@ Experienced with **GraphQL** and passionate about crafting **user-centric experi
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=EL7OMOSANY&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
-
-**⭐️ From [EL7OMOSANY](https://github.com/EL7OMOSANY)**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EL7OMOSANY&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
+  <br><br>
+  ⭐️ From [EL7OMOSANY](https://github.com/EL7OMOSANY)
 </div>
