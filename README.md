@@ -71,7 +71,7 @@ Experienced with **GraphQL** and passionate about crafting **user-centric experi
     <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/201005536262">
+  <a href="https://wa.me/201024324732">
     <img src="https://img.shields.io/badge/WhatsApp-8B5CF6?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
